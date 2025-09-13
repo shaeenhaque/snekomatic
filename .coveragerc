@@ -1,4 +1,5 @@
-[run]
+[- name: astral-sh/setup-uv
+  uses: astral-sh/setup-uv@v6.6.1]
 branch=True
 
 [report]
